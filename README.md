@@ -1,2 +1,0 @@
-# SmartCode
-# SmartCode

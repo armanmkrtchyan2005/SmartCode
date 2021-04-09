@@ -18,7 +18,7 @@
 
 .icons i {
   width: 25px;
-  height: 20px;
+  height: 100%;
   text-align: center;
   padding-top: 4px;
   border: none;
@@ -718,7 +718,7 @@ iframe {
 
 .team .icons i {
   width: 25px;
-  height: 20px;
+  height: 100%;
   text-align: center;
   padding-top: 4px;
   border: none;
@@ -773,7 +773,7 @@ footer .icons i {
   font-size: 20px;
   width: 53px;
   margin-left: 10px;
-  height: 40px;
+  height: 56px;
   text-align: center;
   padding-top: 18px;
   border: none;
